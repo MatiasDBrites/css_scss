@@ -44,4 +44,4 @@ Challenge to review HTML and CSS with SASS
 ## Contact
 
 - GitHub [@MatiasDBrites](https://github.com/MatiasDBrites)
-- Hotmail [@Matias]matias_brites@hotmail.com)
+- Hotmail [@Matias](matias_brites@hotmail.com)
